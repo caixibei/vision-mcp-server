@@ -5,6 +5,8 @@
 给纯文本大模型加上「眼睛」——通过 MCP 协议调用独立配置的视觉模型，让 Claude Desktop 等 MCP 客户端中的文本模型也能看懂图片。
 已修复原版工具无法读取 Claude Desktop 会话图片（`file://` 引用）的缺陷。
 
+> 📌 本仓库为二次开发版本，原仓库地址：**[Markusbetter/vision-mcp-server](https://github.com/Markusbetter/vision-mcp-server)**
+
 [![npm version](https://img.shields.io/npm/v/vision-mcp-server?style=flat-square)](https://www.npmjs.com/package/vision-mcp-server)
 [![npm downloads](https://img.shields.io/npm/dt/vision-mcp-server?style=flat-square)](https://www.npmjs.com/package/vision-mcp-server)
 [![License](https://img.shields.io/npm/l/vision-mcp-server?style=flat-square)](./LICENSE)
